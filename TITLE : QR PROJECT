@@ -1,0 +1,67 @@
+TITLE : AI-POWERED QR CODE PHISHING RISK PREDICTOR WITH MULTILINGUAL VOICE ALERT AGENT
+
+PROJECT WORKFLOW
+
+      START
+       ↓
+1. Detect User Location
+→ Detect City / State / Country
+       ↓
+2. Select Default Voice Language
+→ Automatically select language based on user location
+→ User can manually override the language
+       ↓
+3. QR Code Input
+→ Live Camera Scan
+→ Upload QR Image
+→ Manual URL / UPI Input
+       ↓
+4. QR Code Detection & Decoding
+→ Detect QR code
+→ Decode QR content
+→ Apply image preprocessing if required
+       ↓
+5. Identify QR Type
+→ UPI Payment
+→ URL / Web
+→ Wi-Fi
+→ Contact / vCard
+→ Email
+→ Phone
+→ SMS
+→ Location / Geo
+→ Calendar / Event
+→ Plain Text
+       ↓
+6. Security Analysis
+→ Machine Learning Model Analysis
+→ Rule-Based Phishing Detection
+→ URL / Domain Analysis
+→ UPI Information Analysis
+→ Suspicious Keyword Detection
+→ Malicious Pattern Detection
+       ↓
+7. Threat Classification
+→ 🟢 SAFE
+→ 🟡 SUSPICIOUS
+→ 🔴 DANGEROUS
+       ↓
+8. Explainable Result
+→ Display detected QR type
+→ Display decoded content
+→ Display reasons for classification
+→ Give safety recommendation
+       ↓
+9. Multilingual Voice Alert
+→ Generate voice message using selected language
+→ Automatically play security alert
+       ↓
+10. Scan Statistics
+→ Total Scans
+→ Threats Detected
+→ Scan History
+       ↓
+FINAL SECURITY ALERT
+→ User understands the QR risk before proceeding
+       ↓
+      END
