@@ -8,3 +8,4 @@ streamlit-webrtc
 av
 joblib
 scikit-learn
+streamlit-geolocation
